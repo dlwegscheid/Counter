@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dlwegscheid@gmail.com",
+    "longName": "Counter",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/refresh_white.png",
+                "name": "ACTION_REFRESH_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/plus_white.png",
+                "name": "ACTION_PLUS_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/minus_white.png",
+                "name": "ACTION_MINUS_WHITE",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Counter",
+    "uuid": "0987af15-d3a6-4a10-bbe9-fbddf476bc92",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
